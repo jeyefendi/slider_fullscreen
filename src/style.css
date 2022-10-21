@@ -4,7 +4,7 @@ p, blockquote, pre,
 dl, dd, ol, ul,
 form, fieldset, legend,
 table, th, td, caption,
-hr {
+hr, div, img {
   box-sizing: border-box;
   margin: 0;
   padding: 0;
@@ -13,6 +13,7 @@ hr {
 body {
   font-family: "Roboto", sans-serif;
   height: 100vh;
+  overflow: hidden;
 }
 
 .container {
