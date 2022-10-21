@@ -1,8 +1,10 @@
-# Slider Fullscreen
+# Animals Slider
 
->Marathon of Vladilen Minin - Day 1st
+## Fullscreen
 
-Slider on pure JS & CSS from scratch with smooth animation.
+>Marathon of Vladilen Minin - Day 3rd
+
+Fullscreen Slider on pure JS & CSS from scratch with toggles.
 
 <b>
   
@@ -12,5 +14,5 @@ Slider on pure JS & CSS from scratch with smooth animation.
   
 </b>
 
-# [LIVE DEMO](https://codepen.io/jeyefendi/full/YzLoqOg)
+# [LIVE DEMO](https://codepen.io/jeyefendi/full/VwxoMKQ)
 ![Logo](/src/COVER.png)
